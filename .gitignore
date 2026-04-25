@@ -47,9 +47,7 @@ logs/
 postgres-data/
 *.db
 
-# Large data files (optional - comment out if you want to include sample data)
-data/
-models/
+
 
 # Environment variables
 .env
